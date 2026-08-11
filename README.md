@@ -13,7 +13,7 @@ I am currently interested in working student opportunities in software developme
 
 ## Selected Projects
 
-### 🍽️ AI Smart Calorie Plate
+### 🍽️ [AI Smart Calorie Plate](https://github.com/CPSCourse-TUM-HN/smart-calorie-plate)
 Team project at TUM combining computer vision, weight sensing, and automated nutrition tracking.
 
 **My focus:**
